@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Sample Java Webapp</h1>
-  <p>Hello JJTech Family. Glad to be here!</p>
+  <h1>Special Message for Johnnie Hutton</h1>
+  <p>You need to stop worrying about Kyrie being vaccinated!</p>
 </div>
 </body>
 </html>
